@@ -1,2 +1,2 @@
 # meteor-pg
-This wrapper uses NPM module 'pg' from github.com/brianc/node-postgres.
+This wrapper uses NPM module 'pg' from https://github.com/brianc/node-postgres.
